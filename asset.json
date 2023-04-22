@@ -2,6 +2,11 @@
    "Version":160,
    "Assets":[
       {
+         "Url":"https://raw.githubusercontent.com/KangDohwa/DalamudAssetsKR/main/UIRes/bannedplugin.json",
+         "FileName":"UIRes/bannedplugin.json",
+				 "Hash":"1260745BA0061F7F494BD782DD92CBDD2CC58C02"
+      },
+      {
          "Url":"https://raw.githubusercontent.com/KangDohwa/DalamudAssetsKR/main/UIRes/clientopcode.json",
          "FileName":"UIRes/clientopcode.json",
 				 "Hash":"97EAAD3A3CBA945ABAB765FAC857DB3C17E54FEA"
@@ -10,11 +15,6 @@
          "Url":"https://raw.githubusercontent.com/KangDohwa/DalamudAssetsKR/main/UIRes/serveropcode.json",
          "FileName":"UIRes/serveropcode.json",
 				 "Hash":"C8D66C4D74D9F78FFF65BC38CD3ED012613FE485"
-      },
-      {
-         "Url":"https://raw.githubusercontent.com/KangDohwa/DalamudAssetsKR/main/UIRes/bannedplugin.json",
-         "FileName":"UIRes/bannedplugin.json"
-				 "Hash":"1260745BA0061F7F494BD782DD92CBDD2CC58C02"
       },
       {
          "Url":"https://raw.githubusercontent.com/KangDohwa/DalamudAssetsKR/main/UIRes/FontAwesome5FreeSolid.otf",
