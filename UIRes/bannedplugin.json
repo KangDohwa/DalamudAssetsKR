@@ -1,7 +1,10 @@
 [
   {
-    "Name": "AwesomePluginName",
-    "AssemblyVersion": "1.0.0.0",
-    "Reason": "TheReasonWhyYouUnavailableForThisAndNeedToUpdate."
+    "Name": "Splatoon",
+    "AssemblyVersion": "3.1.0.2",
+  },
+  {
+    "Name": "RemotePartyFinder",
+    "AssemblyVersion": "1.0.8.0",
   }
 ]
